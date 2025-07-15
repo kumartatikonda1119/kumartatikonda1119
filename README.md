@@ -26,7 +26,7 @@
 ### 🛠️My Tech Armory
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,java,react,nodejs,mongodb,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,java,react,bootstrap,nodejs,mongodb,git,github" />
 </p>
 
 ---
