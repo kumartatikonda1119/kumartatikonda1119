@@ -5,9 +5,17 @@
   <img src="https://media.tenor.com/2OcGS7faOOAAAAAM/batman-lightning.gif" alt="Batman Lightning GIF" />
 </p>
 
-<h3 align="center">An Aspiring Full Stack Developer | B.Tech CSE (AI & ML) </h3>
+<h3 align="center">An Aspiring Full Stack Developer | B.Tech CSE (AI & ML) | Competitive Programmer | DSA Enthusiast</h3>
 
 ---
+
+<p align = "center">
+  <a href="https://drive.google.com/file/d/13ugMNxdMkIOwudPiUlOOyhP-sPZzEj8t/view?usp=sharing">
+<!--     <img src="https://img.shields.io/badge/See%20My%20Resume-Click%20Here-informational?style=for-the-badge&color=02daed" alt="Resume"/> -->
+    <img src="https://img.shields.io/badge/See%20My%20Resume-Click%20Here-02daed" alt="Resume"/>
+  </a>
+</p>
+
 
 ### 🔥 About Me
 
@@ -26,7 +34,7 @@
 ### 🛠️My Tech Armory
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,java,react,bootstrap,nodejs,mongodb,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,java,react,bootstrap,nodejs,git,github,vscode,aws,mysql" />
 </p>
 
 ---
@@ -48,6 +56,13 @@
 </p>
 
 ---
+
+### 🪟Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kumartatikonda1119&label=Profile+views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
+
 
 ### 🧠 My Coding Profiles
 
@@ -86,8 +101,16 @@
   </a>
 </div>
 
-### 🪟Profile Views
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kumartatikonda1119&label=Profile+views&color=0e75b6&style=flat" alt="profile-views" />
-</p>
+
+### 🧠 Code ->  Crash ->  Rise -> Solve -> Repeat.
+> I’m a man built from sleepless nights, insane errors, failed test cases, and losing hope.  
+> My code may crash — I won’t.  
+> My logic may fail — but my brain never will.  
+> I’ll code till my last breath.  
+> I’m not just a developer — **I am the vengeance.** 💻⚔️
+
+
+
+_Thanks for making it this far — you're now part of my story. 🚀
+Every repo, every line, every late night — it all matters in my journey . See you at the next commit. 💪_
