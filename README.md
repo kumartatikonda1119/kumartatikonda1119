@@ -42,9 +42,9 @@
 ### 🌟 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumartatikonda1119&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kumartatikonda1119&show_icons=true&theme=dark" alt="GitHub stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumartatikonda1119&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumartatikonda1119&theme=dark" />
 </div>
 
 ---
