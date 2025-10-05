@@ -114,6 +114,5 @@
 > I’m not just a developer — **I am the vengeance.** 💻⚔️
 
 
-
-_Thanks for making it this far — you're now part of my story. 🚀
-Every repo, every line, every late night — it all matters in my journey . See you at the next commit. 💪_
+Thanks for making it this far — you're now part of my story. 🚀
+Every repo, every line, every late night — it all matters in my journey . See you at the next commit. 💪
