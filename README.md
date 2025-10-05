@@ -41,11 +41,14 @@
 
 ### 🌟 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumartatikonda1119&show_icons=true&theme=dark" alt="GitHub stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kumartatikonda1119&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumartatikonda1119&theme=dark" />
-</div>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kumartatikonda1119&theme=tokyonight&hide_border=false">
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</p>
 
 ---
 
