@@ -45,9 +45,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kumartatikonda1119&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <br>
   <img src="https://nirzak-streak-stats.vercel.app/?user=kumartatikonda1119&theme=tokyonight&hide_border=false">
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </p>
 
 ---
@@ -79,10 +76,9 @@
   <a href="https://codeforces.com/profile/kumartatikonda" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
- 
 </p>
 
----
+
 
 ### 🧑‍💻 Let's Connect
 <p align="center">
