@@ -5,7 +5,7 @@
   <img src="https://media.tenor.com/2OcGS7faOOAAAAAM/batman-lightning.gif" alt="Batman Lightning GIF" />
 </p>
 
-<h3 align="center">An Aspiring Full Stack Developer | B.Tech CSE (AI & ML) | Competitive Programmer | DSA Enthusiast</h3>
+<h3 align="center">Full Stack Developer | B.Tech CSE (AI & ML) | Competitive Programmer | DSA Enthusiast</h3>
 
 ---
 
