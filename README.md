@@ -85,8 +85,13 @@
 ---
 
 ### 🧑‍💻 Let's Connect
-
-<div align="left">
+<p align="center">
+  <a href="https://www.linkedin.com/in/kumar-tatikonda-511180291/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:kumartatikonda1119@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.instagram.com/kumar_tatikonda/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://x.com/Kumar25783556"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+</p>
+<!-- <div align="left">
   <a href="https://www.instagram.com/kumar_tatikonda/" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="35" alt="instagram logo"  />
   </a>
@@ -102,7 +107,7 @@
   <a href="mailto:kumartatikonda1119@gmail.com" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="35" alt="gmail logo"  />
   </a>
-</div>
+</div> -->
 
 
 
