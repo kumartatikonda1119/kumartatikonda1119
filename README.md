@@ -10,7 +10,7 @@
 ---
 
 <p align = "center">
-  <a href="https://drive.google.com/file/d/1n-i7maYZ8Epl0aYJgYpXQ54w_UKY1VSb/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1G6Eqr-Ykggk4JiXS94067ydK7sAkX1Tb/view?usp=sharing">
 <!--     <img src="https://img.shields.io/badge/See%20My%20Resume-Click%20Here-informational?style=for-the-badge&color=02daed" alt="Resume"/> -->
     <img src="https://img.shields.io/badge/See%20My%20Resume-Click%20Here-02daed" alt="Resume"/>
   </a>
